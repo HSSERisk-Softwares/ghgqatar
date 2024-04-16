@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+xlsxwriter
+io
+webbrowser
+PIL
+email.mime.text
+smtplib
+datetime
