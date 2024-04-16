@@ -1,0 +1,75 @@
+/* Base styles */
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;  /* Light gray background */
+  }
+  
+  /* Sidebar styles */
+  .sidebar .sidebar-content {
+    background-color: #ffffff;  /* White background for sidebar content */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);  /* Subtle shadow effect */
+  }
+  
+  .sidebar .sidebar-content .block-container {
+    color: #333;  /* Darker text color for readability */
+  }
+  
+  .sidebar .css-1l06w1v {
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;  /* Indicate clickable buttons */
+  }
+  
+  .sidebar .css-1l06w1v:hover {
+    background-color: #d0d0d0;  /* Slight color change on hover */
+  }
+  
+  /* Main content area styles */
+  .app-main {
+    padding: 20px;
+  }
+  
+  /* Navigation bar styles */
+  .st-cb {
+    font-size: 30px;  /* Increase navigation bar font size */
+  }
+  
+  /* Title styles */
+  .element-container > div:first-child {
+    font-size: 35px;  /* Increase main title font size */
+    font-weight: bold;  /* Make title bolder */
+  }
+  
+  /* Subheader styles */
+  .element-container > h2 {
+    font-size: 25px;  /* Increase subheader font size */
+  }
+  
+  /* Input field styles */
+  .st-bp {
+    font-size: 20px;  /* Increase input field font size */
+    padding: 5px;  /* Add some padding for better readability */
+    border: 1px solid #ddd;  /* Add a thin border */
+    border-radius: 3px;  /* Rounded corners for inputs */
+  }
+  
+  /* Calculated value styles */
+  .stText {
+    /* Adjust font size, weight, and color as desired for calculated values */
+    font-size: 20px;  /* Example font size */
+    font-weight: bold;  /* Example font weight */
+    color: #388e3c;  /* Example color (green for emphasis) */
+  }
+
+  .st.sidebar.button{
+width: 100px;
+  }
+  
+  
