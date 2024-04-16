@@ -3,7 +3,6 @@ from datetime import datetime
 import streamlit as st
 import pandas as pd
 import numpy as np
-from streamlit_extras.switch_page_button import switch_page
 import webbrowser
 import io
 from PIL import Image
